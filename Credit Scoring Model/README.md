@@ -12,7 +12,7 @@ It uses **Machine Learning (XGBoost) and Flask** to provide an API for credit ri
 ## 🔹 Installation
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/abcdei/CodeAlpha-MachineLearning-Internship.git
+   https://github.com/YellamatiLakshmi/CodeAlpha-MachineLearning-Internship.git
    cd CodeAlpha-MachineLearning-Internship/CodeAlpha_Credit_Scoring
    ```
 
