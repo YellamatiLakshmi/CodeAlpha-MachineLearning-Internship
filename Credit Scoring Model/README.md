@@ -1,19 +1,3 @@
-### **🔹 Issues in Your Current README.md**
-1️⃣ **Extra indentation inside code blocks**  
-   - Code blocks for commands (`pip install`, `python app.py`, etc.) should not have extra spaces.  
-   - The `#` comments inside the installation section should be **outside** the code blocks.  
-
-2️⃣ **Incorrect JSON formatting**  
-   - The **closing bracket (`}`) in the JSON sample request is misaligned**.  
-
-3️⃣ **Misplaced code block markers**  
-   - **Each code block should be properly opened & closed.**  
-   - **No extra indentation inside ` ```sh ` and ` ```json ` sections.**  
-
----
-
-### ✅ **Fixed & Corrected README.md (Copy-Paste This)**
-```md
 # 🏦 Credit Scoring Model
 
 ## 📌 Project Overview
